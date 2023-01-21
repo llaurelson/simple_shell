@@ -1,7 +1,7 @@
 0x16. C - Simple Shell
 ======================
 
--   By Julien Barbier
+-   By Lawrence Okoeguale 
 -   Project to be done in teams of 2 people (your team: Pericles Adjovi, Emmanuel Udeji
 
 Concepts
